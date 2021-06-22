@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="gameplay" title="Gameplay" src=".github/cover.png" />
+    <img alt="gameplay" title="GamePlay" src=".github/cover.png" />
 </h1>
 
 <br>
@@ -55,4 +55,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-Made with 💜 by [LDNzera](LDNzera) 👋
+Made with 💜 by [LDNzera](https://github.com/LDNzera) 👋
