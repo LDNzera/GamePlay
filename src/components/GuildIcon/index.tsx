@@ -4,7 +4,7 @@ import { Image } from 'react-native';
 import { styles } from "./styles";
 
 export function GuildIcon() {
-  const uri = 'https://www.ultimaficha.com.br/wp-content/uploads/2021/03/baixados-20.jpg'
+  const uri = 'https://bit.ly/2UgF6Cx'
 
   return (
     <Image 
